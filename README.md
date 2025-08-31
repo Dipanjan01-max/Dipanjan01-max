@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;CSE+Student+%7C+Tech+Enthusiast;Building+the+Future+with+AI;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" align="right">
 
 </div>
 
@@ -85,16 +85,7 @@
 
 </div>
 
-## 💝 Support My Work
 
-If you like my projects and want to support my journey in AI/ML, consider:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dipanjan)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dipanjan)
-
-</div>
 
 ## 🤝 Let's Connect!
 
@@ -123,7 +114,6 @@ If you like my projects and want to support my journey in AI/ML, consider:
 ![Profile Views](https://komarev.com/ghpvc/?username=Dipanjan01-max&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/Dipanjan01-max?label=Followers&style=social)](https://github.com/Dipanjan01-max?tab=followers)
 
-**"The future belongs to those who believe in the beauty of their dreams."** ✨
 
 ⭐️ **Made with ❤️ by [Dipanjan Dutta](https://github.com/Dipanjan01-max)**
 
