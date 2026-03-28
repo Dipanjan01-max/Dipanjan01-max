@@ -6,12 +6,13 @@
 
 </div>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" align="right">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" align="right">
 
 ## 🚀 About Me
 
 - 🎓 **Computer Science Engineering** student with a passion for **Artificial Intelligence**
 - 🧠 Specializing in **Machine Learning** and **Deep Learning** technologies
+- 💡 Aspiring **entrepreneur** with dreams of building impactful AI-driven solutions
 - 🌱 Currently diving deep into **Advanced Deep Learning** architectures
 - 🔬 Love experimenting with cutting-edge **ML algorithms** and **neural networks**
 - 🎯 **Goal:** Create AI products that solve real-world problems and make a difference
@@ -76,16 +77,6 @@
 - 📈 Contributing to open-source ML projects
 - 🎯 Aiming to publish research papers in AI conferences
 
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![Dipanjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dipanjan01-max&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -96,46 +87,3 @@
 
 
 </div>
-
-<div align="center">
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎉 Thanks for visiting my profile!
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dipanjan01-max&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Dipanjan01-max?label=Followers&style=social)](https://github.com/Dipanjan01-max?tab=followers)
-
-**"The future belongs to those who believe in the beauty of their dreams."** ✨
-
-⭐️ **Made with ❤️ by [Dipanjan Dutta](https://github.com/Dipanjan01-max)**
-
-</div>
-
-⚙️ Engineering: Implementing MLOps practices and optimizing model deployment pipelines.
-
-🚧 Building: Architecting robust, end-to-end AI applications to solve tangible industry challenges.
-
-🌐 Networking: Actively connecting with fellow AI researchers, developers, and tech visionaries.
-
-📝 Academia: Aiming to contribute to impactful research papers at top-tier AI conferences.
-
-📈 Activity Graph
-
-<div align="center">
-
-</div>
-
-🤝 Let's Connect!
-
-<div align="center">
-
-</div>
-
