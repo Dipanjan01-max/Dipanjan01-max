@@ -8,7 +8,7 @@
 
 <br/>
 
-<table width="100%" style="border: none;">
+<table width="150%" style="border: none;">
   <tr style="border: none;">
     <td valign="top" width="75%" style="border: none;">
       <h2>🚀 About Me</h2>
