@@ -1,56 +1,88 @@
+Hi there, I'm Dipanjan Dutta! 👋
+
 <div align="center">
-
-# Dipanjan Dutta
-
-**B.Tech Computer Science — AI & ML** · Graduating 2027
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanjan-dutta-565a9a2a6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipankardutta.69jpg@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipanjan01-max)
 
 </div>
 
----
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" align="right" alt="Coding Cat Animation">
 
-I am a CS student deeply interested in **research and R&D** — building AI systems that work in the real world, not just on benchmarks. I like hard problems, especially ones that sit at the intersection of language, sound, and human cognition.
+🚀 About Me
 
----
+🎓 Computer Science Engineering undergraduate deeply passionate about Artificial Intelligence and scalable system design.
 
-## 🛠️ Stack
+🧠 Specializing in Machine Learning, Deep Learning, and Data Science, with a focus on building intelligent, automated solutions.
+
+🌱 Currently researching and exploring Advanced Deep Learning architectures, including Transformers and LLMs.
+
+🔬 Constantly experimenting with cutting-edge ML algorithms, neural networks, and modern deployment pipelines.
+
+🎯 Vision: To bridge the gap between theoretical AI research and practical, user-centric applications that make a tangible difference.
+
+<br clear="right"/>
+
+🛠️ Technology Arsenal
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+Languages & Core
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+AI, ML & Data Science
+
+Frameworks & Deployment
+
+Databases & Tools
 
 </div>
 
----
-
-## 📊 GitHub Stats
+📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dipanjan01-max&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanjan01-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dipanjan01-max&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanjan01-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
----
+<div align="center">
+
+</div>
+
+🎯 Current Focus & Aspirations
+
+🔬 Research: Exploring Transformer architectures, Attention mechanisms, and advanced NLP concepts.
+
+⚙️ Engineering: Implementing MLOps practices and optimizing model deployment pipelines.
+
+🚧 Building: Architecting robust, end-to-end AI applications to solve tangible industry challenges.
+
+🌐 Networking: Actively connecting with fellow AI researchers, developers, and tech visionaries.
+
+🚀 Entrepreneurship: Laying the groundwork for an innovative, AI-driven startup.
+
+📝 Academia: Aiming to contribute to impactful research papers at top-tier AI conferences.
+
+📈 Activity Graph
 
 <div align="center">
 
-*"The most dangerous phrase in research is: it's always been done this way."*
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dipanjan01-max&label=Profile+views&color=0e75b6&style=flat)
+🤝 Let's Connect!
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+💭 Daily Inspiration
+
+</div>
+
+<div align="center">
+
+"The future belongs to those who believe in the beauty of their dreams." ✨
+
+⭐️ Maintained with ❤️ by Dipanjan Dutta
 
 </div>
