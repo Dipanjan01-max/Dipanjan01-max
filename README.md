@@ -2,17 +2,16 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;CSE+Student+%7C+Tech+Enthusiast;Building+the+Future+with+AI;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Undergrad;Specializing+in+Machine+Learning+%26+NLP;Building+Multimodal+AI+Pipelines;Researching+Transformer+Architectures)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" align="right">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right">
 
 ## 🚀 About Me
 
 - 🎓 **Computer Science Engineering** student with a passion for **Artificial Intelligence**
 - 🧠 Specializing in **Machine Learning** and **Deep Learning** technologies
-- 💡 Aspiring **entrepreneur** with dreams of building impactful AI-driven solutions
 - 🌱 Currently diving deep into **Advanced Deep Learning** architectures
 - 🔬 Love experimenting with cutting-edge **ML algorithms** and **neural networks**
 - 🎯 **Goal:** Create AI products that solve real-world problems and make a difference
@@ -46,36 +45,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dipanjan01-max&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanjan01-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dipanjan01-max&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
-## 🎯 Current Focus
-
-- 🔬 **Research:** Exploring transformer architectures and attention mechanisms
-- 📚 **Learning:** Advanced deep learning techniques and MLOps practices
-- 🚧 **Building:** AI-powered applications that solve real-world challenges
-- 🌐 **Networking:** Connecting with fellow AI enthusiasts and industry professionals
-
-## 🏆 Achievements & Goals
-
-- 🎓 Maintaining academic excellence in Computer Science Engineering
-- 💻 Building a strong portfolio of AI/ML projects
-- 🚀 Planning to launch my first AI startup
-- 📈 Contributing to open-source ML projects
-- 🎯 Aiming to publish research papers in AI conferences
 
 ## 🤝 Let's Connect!
 
