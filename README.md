@@ -84,5 +84,5 @@
 <br/>
 
 <div align="center">
-  <i> Reproducible research through robust technical architecture🌸 </i>
+  <i> "Reproducible research through robust technical architecture🌸" </i>
 </div>
